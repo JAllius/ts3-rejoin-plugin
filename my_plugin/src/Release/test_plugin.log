@@ -1,0 +1,15 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Platforms\Win32\PlatformToolsets\v141_xp\Toolset.targets(39,5): warning MSB8051: Die Unterstützung für Windows XP als Ziel wird eingestellt und ist in künftigen Versionen von Visual Studio nicht mehr enthalten. Weitere Informationen finden Sie unter https://go.microsoft.com/fwlink/?linkid=2023588.
+  plugin.c
+d:\bibliotheken\dokumente\ts3 test plugin programming\my_plugin\src\plugin.c(732): warning C4244: "=": Konvertierung von "uint64" in "anyID", möglicher Datenverlust
+d:\bibliotheken\dokumente\ts3 test plugin programming\my_plugin\src\plugin.c(733): warning C4047: "=": Anzahl der Dereferenzierungen bei "anyID *" und "uint64" unterschiedlich
+d:\bibliotheken\dokumente\ts3 test plugin programming\my_plugin\src\plugin.c(750): warning C4047: "Funktion": Anzahl der Dereferenzierungen bei "uint64" und "anyID *" unterschiedlich
+d:\bibliotheken\dokumente\ts3 test plugin programming\my_plugin\src\plugin.c(750): warning C4024: "ts3Functions": unterschiedliche Typen für formalen und übergebenen Parameter 1
+d:\bibliotheken\dokumente\ts3 test plugin programming\my_plugin\src\plugin.c(752): warning C4477: "printf": Die Formatzeichenfolge "%i" erfordert ein Argument vom Typ "int", das variadic-Argument "1" weist aber den Typ "anyID *" auf.
+d:\bibliotheken\dokumente\ts3 test plugin programming\my_plugin\src\plugin.c(753): warning C4047: "Funktion": Anzahl der Dereferenzierungen bei "uint64" und "anyID *" unterschiedlich
+d:\bibliotheken\dokumente\ts3 test plugin programming\my_plugin\src\plugin.c(753): warning C4024: "ts3Functions": unterschiedliche Typen für formalen und übergebenen Parameter 1
+d:\bibliotheken\dokumente\ts3 test plugin programming\my_plugin\src\plugin.c(1163): warning C4047: "Funktion": Anzahl der Dereferenzierungen bei "uint64" und "anyID *" unterschiedlich
+d:\bibliotheken\dokumente\ts3 test plugin programming\my_plugin\src\plugin.c(1163): warning C4024: "ts3Functions": unterschiedliche Typen für formalen und übergebenen Parameter 1
+d:\bibliotheken\dokumente\ts3 test plugin programming\my_plugin\src\plugin.c(1165): warning C4477: "printf": Die Formatzeichenfolge "%i" erfordert ein Argument vom Typ "int", das variadic-Argument "1" weist aber den Typ "anyID *" auf.
+d:\bibliotheken\dokumente\ts3 test plugin programming\my_plugin\src\plugin.c(1166): warning C4047: "Funktion": Anzahl der Dereferenzierungen bei "uint64" und "anyID *" unterschiedlich
+d:\bibliotheken\dokumente\ts3 test plugin programming\my_plugin\src\plugin.c(1166): warning C4024: "ts3Functions": unterschiedliche Typen für formalen und übergebenen Parameter 1
+  test_plugin.vcxproj -> D:\Bibliotheken\Dokumente\ts3 test plugin programming\my_plugin\src\Release\Rejoin Plugin.dll
