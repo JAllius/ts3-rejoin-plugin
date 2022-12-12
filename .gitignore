@@ -1,4 +1,4 @@
-code/src/.vs/
-code/src/Debug/
-code/src/Release/
-code/.vscode/
+src/.vs/
+src/Debug/
+src/Release/
+.vscode/
