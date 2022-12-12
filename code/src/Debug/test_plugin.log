@@ -1,5 +1,0 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Platforms\Win32\PlatformToolsets\v141_xp\Toolset.targets(39,5): warning MSB8051: Die Unterstützung für Windows XP als Ziel wird eingestellt und ist in künftigen Versionen von Visual Studio nicht mehr enthalten. Weitere Informationen finden Sie unter https://go.microsoft.com/fwlink/?linkid=2023588.
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: Das Zwischenverzeichnis (Debug\) enthält freigegebene Dateien aus einem anderen Projekt (test_plugin.vcxproj). Dies kann zu einem falschen Bereinigungs- und Neuerstellungsverhalten führen.
-  plugin.c
-     Bibliothek "\projects\teamspeak\plugins\my_plugin.lib" und Objekt "\projects\teamspeak\plugins\my_plugin.exp" werden erstellt.
-  test_plugin.vcxproj -> \projects\teamspeak\plugins\my_plugin.dll
